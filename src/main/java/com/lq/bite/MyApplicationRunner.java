@@ -19,5 +19,10 @@ public class MyApplicationRunner implements ApplicationRunner {
 
 		//RedisAPI.setStr("publicKey", customPropertiesConfig.getPublicKey(), 86400);
 		//RedisAPI.setStr("privateKey", customPropertiesConfig.getPrivateKey(), 86400);
+		//RedisAPI.setStr("privateKey", customPropertiesConfig.getPrivateKey(), 86400);
+		//RedisAPI.setStr("privateKey", customPropertiesConfig.getPrivateKey(), 86400);
+		//RedisAPI.setStr("privateKey", customPropertiesConfig.getPrivateKey(), 86400);
+		
+		//RedisAPI.setStr("privateKey", customPropertiesConfig.getPrivateKey(), 86400);
 	}
 }
